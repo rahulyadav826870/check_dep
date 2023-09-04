@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/app.js",
   "scripts": {
-    "tsc": "npx tsc",
+    "build": "tsc",
     "serve": "nodemon dist/app.js"
   },
   "keywords": [],
