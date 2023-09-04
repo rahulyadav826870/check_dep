@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/app.js",
+  "main": "dist/app.ts",
   "scripts": {
     "tsc": "npx tsc",
     "serve": "nodemon dist/app.js"
